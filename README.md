@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**LD332/LD332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p>Começando a aprender agora, mas determinado a aprender o maximo que conseguir</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="left">Conhecimento em:</p>
+
+<code><img height="30px"  src="https://thebrainiackid.com/images/html.webp"></code>
+<code><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/960px-CSS3_logo.svg.png"></code>
+
+
