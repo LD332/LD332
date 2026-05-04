@@ -8,7 +8,7 @@
 
 <p align="left">Conhecimento em:</p>
 
-<code><img height="30px"  src="https://thebrainiackid.com/images/html.webp" alt="HTML"></code>
+<code><img height="30px"  src="https://prosimples.com/wp-content/uploads/2024/01/html.png" alt="HTML"></code>
 <code><img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/960px-CSS3_logo.svg.png" alt="CSS"></code>
 
 <br>
